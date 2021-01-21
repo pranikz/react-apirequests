@@ -1,4 +1,4 @@
-# This site is live so [click here]()
+# This site is live so [click here](https://countrycity.netlify.app/)
 
 # Getting Started with Create React App
 
